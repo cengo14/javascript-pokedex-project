@@ -8,8 +8,8 @@ Bu proje, API'den alınan Pokemon kart verilerini ekrana bastıran ve inputa gir
 - Pokemon kartlarını ekranda gösterme
 - Input alanına girilen veriye göre Pokemonları filtreleme
 
-## Ekran Görüntüsü
-  [Ana Sayfa](desktop.gif)
+## Ekran Görüntüleri
+  ![Ana Sayfa](desktop.gif)
 
 ## Kullanılan Teknolojiler
 
